@@ -1,0 +1,5 @@
+PAGE
+    Toplevel: 사회_핵심_단어_사전
+        Listbox: Listbox1  
+        Label: Label1  
+
